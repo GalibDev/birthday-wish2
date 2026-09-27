@@ -1,8 +1,8 @@
 <div align="center">
 
-![Animated birthday banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20&text=Tamim's%20Birthday&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=A%20little%20celebration%20made%20with%20love%20%F0%9F%92%96&descAlignY=58)
+![Animated birthday banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20&text=Nabila's%20Birthday&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=A%20little%20celebration%20made%20with%20love%20%F0%9F%92%96&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=900&color=FF7081&center=true&vCenter=true&width=650&lines=Happy+Birthday%2C+Tamim!+%F0%9F%8E%82;Blow+the+candle+and+make+a+wish+%E2%9C%A8;Open+the+letter+for+a+special+surprise+%F0%9F%92%8C;Beautiful+memories%2C+music+and+more+%F0%9F%92%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=900&color=FF7081&center=true&vCenter=true&width=650&lines=Happy+Birthday%2C+Nabila!+%F0%9F%8E%82;Blow+the+candle+and+make+a+wish+%E2%9C%A8;Open+the+letter+for+a+special+surprise+%F0%9F%92%8C;Beautiful+memories%2C+music+and+more+%F0%9F%92%95)](https://git.io/typing-svg)
 
 <p>
   An interactive, responsive birthday experience filled with memories,<br>
@@ -12,7 +12,7 @@
 <p>
   <a href="https://tamims-birthday.vercel.app/"><strong>🎉 Open the Birthday Surprise</strong></a>
   ·
-  <a href="https://github.com/GalibDev/tamims-birthday"><strong>⭐ View Repository</strong></a>
+  <a href="https://github.com/GalibDev/birthday-wish2"><strong>⭐ View Repository</strong></a>
 </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-ff7081?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +48,7 @@
 ```text
 Open the page
      │
-     ├── 💌 Read Tamim's letter
+     ├── 💌 Read Nabila's letter
      ├── 🖼️ Slide through memories
      ├── 🎂 Blow out the candle
      ├── 🎨 Pick a birthday theme
@@ -59,10 +59,10 @@ Open the page
 
 1. Put the new photos inside the [`images`](images) folder.
 2. Open [`index.html`](index.html#L144).
-3. Replace the five `images/tamim.jpeg` paths in the memory slides:
+3. Replace the five `images/nabila.jpg` paths in the memory slides:
 
 ```html
-<img src="images/memory-1.jpg" alt="Tamim's first memory">
+<img src="images/memory-1.jpg" alt="Nabila's first memory">
 ```
 
 Edit the nearby `<h3>` and `<p>` elements to change each memory title and caption.
@@ -78,14 +78,14 @@ Replace [`music/birthdaymusic.mp3`](music/birthdaymusic.mp3) with another MP3 us
 No framework or build step is required. Clone the repository and open `index.html` in a browser, or serve the folder with any static development server.
 
 ```bash
-git clone https://github.com/GalibDev/tamims-birthday.git
-cd tamims-birthday
+git clone https://github.com/GalibDev/birthday-wish2.git
+cd birthday-wish2
 ```
 
 ## 📁 Project structure
 
 ```text
-tamims-birthday/
+birthday-wish2/
 ├── images/              # Photos and decorative assets
 ├── music/               # Birthday soundtrack
 ├── index.html           # Page structure and interactions
@@ -97,7 +97,7 @@ tamims-birthday/
 
 <div align="center">
 
-### 💖 A birthday wish made especially for Tamim
+### 💖 A birthday wish made especially for Nabila
 
 If this little celebration made you smile, leave a ⭐ on the repository.
 
